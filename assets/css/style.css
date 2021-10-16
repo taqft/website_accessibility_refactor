@@ -1,13 +1,46 @@
+/* Wildcard selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element selector - body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Element selector - link elements */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Element selector - paragraph elements */
+p {
+    font-size: 16px;
+}
+
+/* Class selector - float-left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Class selector - float-right */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Class selector - content */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Class selector - header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +48,18 @@ body {
     color: #ffffff;
 }
 
+/* Class selector - header - h1 elements */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Class selector - header - h1 elements - seo class */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Class selector - header - div elements */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,25 +68,19 @@ body {
     font-size: 20px;
 }
 
+/* Class selector - header - ul elements within div elements */
 .header div ul {
     list-style-type: none;
 }
 
+/* Class selector - header - li elements within div & ul elements */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-.hero {
+/* Class selector - team-hero-picture - controlling main picture showing team members */
+.team-hero-picture {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,22 +89,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Class selector - benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,54 +101,64 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* Class selector - benefit-lead-generation */
+.benefit-lead-generation {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* Class selector - benfit-lead-generation - h3 elements */
+.benefit-lead-generation h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+/* Class selector - benfit-lead-generation - img elements */
+.benefit-lead-generation img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* Class selector - benefit-brand-awareness */
+.benefit-brand-awareness {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Class selector - benefit-brand-awareness - h3 elements */
+.benefit-brand-awareness h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Class selector - benefit-brand-awareness - img elements */
+.benefit-brand-awareness img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img {
+/* Class selector - benefit-cost-management */
+.benefit-cost-management {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Class selector - benfit-cost-management - h3 elements */
+.benefit-cost-management h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Class selector - benefit-cost-management - img elements */
+.benefit-cost-management img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Class selector - search-engine-optimization */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +168,18 @@ p {
     color: #ffffff;
 }
 
+/* Class selector - search-engine-optimization - img elements */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* Class selector - search-engine-optimization - h2 elements */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Class selector - online-reputation-management */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +189,18 @@ p {
     color: #ffffff;
 }
 
+/* Class selector - online-reputation-management - img elements */
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* Class selector - online-reputation-management - h2 elements */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Class selector - social-media-marketing */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,33 +210,18 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+/* Class selector - social-media-marketing - img elements */
 .social-media-marketing img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Class selector - social-media-marketing - h2 elements */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Class selector - footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +229,7 @@ p {
     text-align: center;
 }
 
+/* Class selector - footer - h2 elements */
 .footer h2 {
     font-size: 20px;
 }

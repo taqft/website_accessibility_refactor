@@ -60,7 +60,7 @@ View the commit history to see the changes made to Horiseon's site, making it mo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Tim Carrier worked on this project with me. [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/tim-carrier-9a2a9a22/]
+* Tim Carrier worked on this project with me. [![LinkedIn][linkedin-shield]][linkedin-url-tim]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -80,4 +80,5 @@ View the commit history to see the changes made to Horiseon's site, making it mo
 [license-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bk09/
+[linkedin-url-tim]: https://www.linkedin.com/in/tim-carrier-9a2a9a22/
 [product-screenshot]: images/screenshot.png

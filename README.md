@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/theresaqueryforthat/website_accessibility_refactor">
+  <a href="https://github.com/taqft/website_accessibility_refactor">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,11 +38,11 @@
   <p align="center">
     A quick refresh of website code to be more accessibile.
     <br />
-    <a href="https://theresaqueryforthat.github.io/website_accessibility_refactor/">View Demo</a>
+    <a href="https://taqft.github.io/website_accessibility_refactor/">View Demo</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/website_accessibility_refactor/issues">Report Bug</a>
+    <a href="https://github.com/taqft/website_accessibility_refactor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/website_accessibility_refactor/issues">Request Feature</a>
+    <a href="https://github.com/taqft/website_accessibility_refactor/issues">Request Feature</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://theresaqueryforthat.github.io/website_accessibility_refactor/)
+[![Product Name Screen Shot][product-screenshot]](https://taqft.github.io/website_accessibility_refactor/)
 
 View the commit history to see the changes made to Horiseon's site, making it more accessibile in the process.
 
@@ -68,16 +68,16 @@ View the commit history to see the changes made to Horiseon's site, making it mo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
-[contributors-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
-[forks-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/network/members
-[stars-shield]: https://img.shields.io/github/stars/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
-[stars-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
-[issues-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/issues
-[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
-[license-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/taqft/website_accessibility_refactor.svg?style=for-the-badge
+[contributors-url]: https://github.com/taqft/website_accessibility_refactor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taqft/website_accessibility_refactor.svg?style=for-the-badge
+[forks-url]: https://github.com/taqft/website_accessibility_refactor/network/members
+[stars-shield]: https://img.shields.io/github/stars/taqft/website_accessibility_refactor.svg?style=for-the-badge
+[stars-url]: https://github.com/taqft/website_accessibility_refactor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taqft/website_accessibility_refactor.svg?style=for-the-badge
+[issues-url]: https://github.com/taqft/website_accessibility_refactor/issues
+[license-shield]: https://img.shields.io/github/license/taqft/website_accessibility_refactor.svg?style=for-the-badge
+[license-url]: https://github.com/taqft/website_accessibility_refactor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bk09/
 [linkedin-url-tim]: https://www.linkedin.com/in/tim-carrier-9a2a9a22/
